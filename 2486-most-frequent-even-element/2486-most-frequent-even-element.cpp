@@ -1,7 +1,6 @@
 class Solution {
 public:
     int mostFrequentEven(vector<int>& nums) {
-        int mini = INT_MAX, maxi = INT_MIN;
         int size = nums.size();
         map<int,int> mp;
         for(int i=0;i<size;i++){
