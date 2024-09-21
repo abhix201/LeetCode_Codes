@@ -62,4 +62,12 @@ This is the repository for all the leetcode successful submissions that will be 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/abhix201/LeetCode_Codes/tree/master/0179-largest-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/abhix201/LeetCode_Codes/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/abhix201/LeetCode_Codes/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
