@@ -29,6 +29,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Hash Table
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/abhix201/LeetCode_Codes/tree/master/0567-permutation-in-string) |
 | [0837-most-common-word](https://github.com/abhix201/LeetCode_Codes/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/abhix201/LeetCode_Codes/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/abhix201/LeetCode_Codes/tree/master/1256-rank-transform-of-an-array) |
@@ -40,6 +41,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | ------- |
 | [0179-largest-number](https://github.com/abhix201/LeetCode_Codes/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/abhix201/LeetCode_Codes/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/abhix201/LeetCode_Codes/tree/master/0567-permutation-in-string) |
 | [0837-most-common-word](https://github.com/abhix201/LeetCode_Codes/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/abhix201/LeetCode_Codes/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhix201/LeetCode_Codes/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -86,5 +88,10 @@ This is the repository for all the leetcode successful submissions that will be 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/abhix201/LeetCode_Codes/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/abhix201/LeetCode_Codes/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhix201/LeetCode_Codes/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/abhix201/LeetCode_Codes/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
