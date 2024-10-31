@@ -14,6 +14,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [1435-xor-queries-of-a-subarray](https://github.com/abhix201/LeetCode_Codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [1694-make-sum-divisible-by-p](https://github.com/abhix201/LeetCode_Codes/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhix201/LeetCode_Codes/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/abhix201/LeetCode_Codes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/abhix201/LeetCode_Codes/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhix201/LeetCode_Codes/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2836-neither-minimum-nor-maximum](https://github.com/abhix201/LeetCode_Codes/tree/master/2836-neither-minimum-nor-maximum) |
