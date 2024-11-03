@@ -6,6 +6,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Array
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/abhix201/LeetCode_Codes/tree/master/0179-largest-number) |
 | [0260-single-number-iii](https://github.com/abhix201/LeetCode_Codes/tree/master/0260-single-number-iii) |
 | [0455-assign-cookies](https://github.com/abhix201/LeetCode_Codes/tree/master/0455-assign-cookies) |
@@ -55,6 +56,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/abhix201/LeetCode_Codes/tree/master/0260-single-number-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/abhix201/LeetCode_Codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhix201/LeetCode_Codes/tree/master/1786-count-the-number-of-consistent-strings) |
