@@ -1,16 +1,18 @@
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
-        int index = 0;
-        int end = nums.size()-1;
-        for(int i=0;i<=end;i++){
-            if(nums[i]==0){
-                swap(nums[index],nums[i]);
-                index++;
-            }
-            else if(nums[i]==2){
-                swap(nums[end],nums[i]);
-                end--; i--;
+        // solving using the dutch flag national algorithm
+        int low = 0, mid = 0, high = nums.size() - 1;
+        while (mid <= high) {
+            if (nums[mid] == 0) {
+                swap(nums[low], nums[mid]);
+                low++;
+                mid++;
+            } else if (nums[mid] == 1) {
+                mid++;
+            } else {
+                swap(nums[mid], nums[high]);
+                high--;
             }
         }
     }
