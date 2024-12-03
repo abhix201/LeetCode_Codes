@@ -20,6 +20,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhix201/LeetCode_Codes/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/abhix201/LeetCode_Codes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/abhix201/LeetCode_Codes/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2232-adding-spaces-to-a-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2232-adding-spaces-to-a-string) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/abhix201/LeetCode_Codes/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhix201/LeetCode_Codes/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2836-neither-minimum-nor-maximum](https://github.com/abhix201/LeetCode_Codes/tree/master/2836-neither-minimum-nor-maximum) |
@@ -56,6 +57,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/abhix201/LeetCode_Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhix201/LeetCode_Codes/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhix201/LeetCode_Codes/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2232-adding-spaces-to-a-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2232-adding-spaces-to-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/abhix201/LeetCode_Codes/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/abhix201/LeetCode_Codes/tree/master/3195-separate-black-and-white-balls) |
 | [3451-string-compression-iii](https://github.com/abhix201/LeetCode_Codes/tree/master/3451-string-compression-iii) |
@@ -111,6 +113,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0567-permutation-in-string](https://github.com/abhix201/LeetCode_Codes/tree/master/0567-permutation-in-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/abhix201/LeetCode_Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhix201/LeetCode_Codes/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2232-adding-spaces-to-a-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2232-adding-spaces-to-a-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhix201/LeetCode_Codes/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/abhix201/LeetCode_Codes/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
@@ -126,6 +129,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Simulation
 |  |
 | ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2232-adding-spaces-to-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/abhix201/LeetCode_Codes/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Binary Search
 |  |
