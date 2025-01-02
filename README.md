@@ -23,6 +23,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2232-adding-spaces-to-a-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2232-adding-spaces-to-a-string) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/abhix201/LeetCode_Codes/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhix201/LeetCode_Codes/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/abhix201/LeetCode_Codes/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2836-neither-minimum-nor-maximum](https://github.com/abhix201/LeetCode_Codes/tree/master/2836-neither-minimum-nor-maximum) |
 ## Sorting
 |  |
@@ -59,6 +60,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhix201/LeetCode_Codes/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhix201/LeetCode_Codes/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2232-adding-spaces-to-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/abhix201/LeetCode_Codes/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/abhix201/LeetCode_Codes/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/abhix201/LeetCode_Codes/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/abhix201/LeetCode_Codes/tree/master/3195-separate-black-and-white-balls) |
@@ -83,6 +85,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [1435-xor-queries-of-a-subarray](https://github.com/abhix201/LeetCode_Codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/abhix201/LeetCode_Codes/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/abhix201/LeetCode_Codes/tree/master/1694-make-sum-divisible-by-p) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/abhix201/LeetCode_Codes/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Brainteaser
 |  |
 | ------- |
