@@ -14,6 +14,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0485-max-consecutive-ones](https://github.com/abhix201/LeetCode_Codes/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/abhix201/LeetCode_Codes/tree/master/0539-minimum-time-difference) |
 | [0837-most-common-word](https://github.com/abhix201/LeetCode_Codes/tree/master/0837-most-common-word) |
+| [0878-shifting-letters](https://github.com/abhix201/LeetCode_Codes/tree/master/0878-shifting-letters) |
 | [1256-rank-transform-of-an-array](https://github.com/abhix201/LeetCode_Codes/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/abhix201/LeetCode_Codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [1694-make-sum-divisible-by-p](https://github.com/abhix201/LeetCode_Codes/tree/master/1694-make-sum-divisible-by-p) |
@@ -53,6 +54,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0539-minimum-time-difference](https://github.com/abhix201/LeetCode_Codes/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/abhix201/LeetCode_Codes/tree/master/0567-permutation-in-string) |
 | [0837-most-common-word](https://github.com/abhix201/LeetCode_Codes/tree/master/0837-most-common-word) |
+| [0878-shifting-letters](https://github.com/abhix201/LeetCode_Codes/tree/master/0878-shifting-letters) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/abhix201/LeetCode_Codes/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhix201/LeetCode_Codes/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/abhix201/LeetCode_Codes/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -82,6 +84,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Prefix Sum
 |  |
 | ------- |
+| [0878-shifting-letters](https://github.com/abhix201/LeetCode_Codes/tree/master/0878-shifting-letters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/abhix201/LeetCode_Codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/abhix201/LeetCode_Codes/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/abhix201/LeetCode_Codes/tree/master/1694-make-sum-divisible-by-p) |
