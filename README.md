@@ -17,6 +17,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0878-shifting-letters](https://github.com/abhix201/LeetCode_Codes/tree/master/0878-shifting-letters) |
 | [1256-rank-transform-of-an-array](https://github.com/abhix201/LeetCode_Codes/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/abhix201/LeetCode_Codes/tree/master/1435-xor-queries-of-a-subarray) |
+| [1524-string-matching-in-an-array](https://github.com/abhix201/LeetCode_Codes/tree/master/1524-string-matching-in-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/abhix201/LeetCode_Codes/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhix201/LeetCode_Codes/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/abhix201/LeetCode_Codes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -59,6 +60,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0878-shifting-letters](https://github.com/abhix201/LeetCode_Codes/tree/master/0878-shifting-letters) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/abhix201/LeetCode_Codes/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhix201/LeetCode_Codes/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1524-string-matching-in-an-array](https://github.com/abhix201/LeetCode_Codes/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/abhix201/LeetCode_Codes/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/abhix201/LeetCode_Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhix201/LeetCode_Codes/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -154,5 +156,6 @@ This is the repository for all the leetcode successful submissions that will be 
 ## String Matching
 |  |
 | ------- |
+| [1524-string-matching-in-an-array](https://github.com/abhix201/LeetCode_Codes/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/abhix201/LeetCode_Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
