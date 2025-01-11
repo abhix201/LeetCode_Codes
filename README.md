@@ -9,6 +9,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0075-sort-colors](https://github.com/abhix201/LeetCode_Codes/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/abhix201/LeetCode_Codes/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/abhix201/LeetCode_Codes/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/abhix201/LeetCode_Codes/tree/master/0260-single-number-iii) |
 | [0455-assign-cookies](https://github.com/abhix201/LeetCode_Codes/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/abhix201/LeetCode_Codes/tree/master/0485-max-consecutive-ones) |
@@ -39,6 +40,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | ------- |
 | [0075-sort-colors](https://github.com/abhix201/LeetCode_Codes/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/abhix201/LeetCode_Codes/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/abhix201/LeetCode_Codes/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/abhix201/LeetCode_Codes/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/abhix201/LeetCode_Codes/tree/master/0539-minimum-time-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/abhix201/LeetCode_Codes/tree/master/1256-rank-transform-of-an-array) |
@@ -48,6 +50,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/abhix201/LeetCode_Codes/tree/master/0217-contains-duplicate) |
 | [0567-permutation-in-string](https://github.com/abhix201/LeetCode_Codes/tree/master/0567-permutation-in-string) |
 | [0837-most-common-word](https://github.com/abhix201/LeetCode_Codes/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/abhix201/LeetCode_Codes/tree/master/0920-uncommon-words-from-two-sentences) |
