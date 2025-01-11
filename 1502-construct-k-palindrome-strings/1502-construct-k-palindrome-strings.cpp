@@ -2,7 +2,8 @@ class Solution {
 public:
     bool canConstruct(string s, int k) {
         int oc = 0;
-        if(s.size() < k) return false;
+        if (s.size() < k) return false;
+        if (s.size() == k) return true;
         unordered_map<char, int> mp;
         for (auto i : s) {
             mp[i]++;
