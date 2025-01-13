@@ -60,6 +60,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [1694-make-sum-divisible-by-p](https://github.com/abhix201/LeetCode_Codes/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhix201/LeetCode_Codes/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhix201/LeetCode_Codes/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/abhix201/LeetCode_Codes/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
 | ------- |
@@ -90,6 +91,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [3195-separate-black-and-white-balls](https://github.com/abhix201/LeetCode_Codes/tree/master/3195-separate-black-and-white-balls) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/abhix201/LeetCode_Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/abhix201/LeetCode_Codes/tree/master/3451-string-compression-iii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/abhix201/LeetCode_Codes/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -105,6 +107,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0920-uncommon-words-from-two-sentences](https://github.com/abhix201/LeetCode_Codes/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1502-construct-k-palindrome-strings](https://github.com/abhix201/LeetCode_Codes/tree/master/1502-construct-k-palindrome-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhix201/LeetCode_Codes/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/abhix201/LeetCode_Codes/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Prefix Sum
 |  |
 | ------- |
