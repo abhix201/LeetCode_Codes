@@ -102,6 +102,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [1435-xor-queries-of-a-subarray](https://github.com/abhix201/LeetCode_Codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhix201/LeetCode_Codes/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/abhix201/LeetCode_Codes/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2509-minimize-xor](https://github.com/abhix201/LeetCode_Codes/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abhix201/LeetCode_Codes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Counting
 |  |
@@ -139,6 +140,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [1502-construct-k-palindrome-strings](https://github.com/abhix201/LeetCode_Codes/tree/master/1502-construct-k-palindrome-strings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhix201/LeetCode_Codes/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/abhix201/LeetCode_Codes/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/abhix201/LeetCode_Codes/tree/master/2509-minimize-xor) |
 | [3195-separate-black-and-white-balls](https://github.com/abhix201/LeetCode_Codes/tree/master/3195-separate-black-and-white-balls) |
 ## Depth-First Search
 |  |
