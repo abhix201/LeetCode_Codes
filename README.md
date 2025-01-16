@@ -45,6 +45,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0075-sort-colors](https://github.com/abhix201/LeetCode_Codes/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/abhix201/LeetCode_Codes/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/abhix201/LeetCode_Codes/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/abhix201/LeetCode_Codes/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/abhix201/LeetCode_Codes/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/abhix201/LeetCode_Codes/tree/master/0539-minimum-time-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/abhix201/LeetCode_Codes/tree/master/1256-rank-transform-of-an-array) |
@@ -55,6 +56,7 @@ This is the repository for all the leetcode successful submissions that will be 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/abhix201/LeetCode_Codes/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/abhix201/LeetCode_Codes/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/abhix201/LeetCode_Codes/tree/master/0567-permutation-in-string) |
 | [0837-most-common-word](https://github.com/abhix201/LeetCode_Codes/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/abhix201/LeetCode_Codes/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -70,6 +72,7 @@ This is the repository for all the leetcode successful submissions that will be 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/abhix201/LeetCode_Codes/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/abhix201/LeetCode_Codes/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/abhix201/LeetCode_Codes/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/abhix201/LeetCode_Codes/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/abhix201/LeetCode_Codes/tree/master/0567-permutation-in-string) |
