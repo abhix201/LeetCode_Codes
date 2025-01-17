@@ -37,6 +37,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhix201/LeetCode_Codes/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/abhix201/LeetCode_Codes/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abhix201/LeetCode_Codes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/abhix201/LeetCode_Codes/tree/master/2792-neighboring-bitwise-xor) |
 | [2836-neither-minimum-nor-maximum](https://github.com/abhix201/LeetCode_Codes/tree/master/2836-neither-minimum-nor-maximum) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/abhix201/LeetCode_Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Sorting
@@ -113,6 +114,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2509-minimize-xor](https://github.com/abhix201/LeetCode_Codes/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/abhix201/LeetCode_Codes/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abhix201/LeetCode_Codes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/abhix201/LeetCode_Codes/tree/master/2792-neighboring-bitwise-xor) |
 ## Counting
 |  |
 | ------- |
