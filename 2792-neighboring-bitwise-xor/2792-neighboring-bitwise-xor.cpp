@@ -4,8 +4,8 @@ public:
         int n = derived.size();
         int sum = 0;
         for(int i : derived){
-            sum += i;
+            sum ^= i;
         }
-        return sum % 2 == 0;
+        return sum == 0;
     }
 };
