@@ -105,6 +105,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/abhix201/LeetCode_Codes/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/abhix201/LeetCode_Codes/tree/master/3195-separate-black-and-white-balls) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/abhix201/LeetCode_Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3379-score-of-a-string](https://github.com/abhix201/LeetCode_Codes/tree/master/3379-score-of-a-string) |
 | [3451-string-compression-iii](https://github.com/abhix201/LeetCode_Codes/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/abhix201/LeetCode_Codes/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
