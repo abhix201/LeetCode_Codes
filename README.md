@@ -172,6 +172,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0386-lexicographical-numbers](https://github.com/abhix201/LeetCode_Codes/tree/master/0386-lexicographical-numbers) |
 | [0820-find-eventual-safe-states](https://github.com/abhix201/LeetCode_Codes/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/abhix201/LeetCode_Codes/tree/master/1396-count-servers-that-communicate) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/abhix201/LeetCode_Codes/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Trie
 |  |
 | ------- |
@@ -240,6 +241,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/abhix201/LeetCode_Codes/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/abhix201/LeetCode_Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/abhix201/LeetCode_Codes/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -266,4 +268,5 @@ This is the repository for all the leetcode successful submissions that will be 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/abhix201/LeetCode_Codes/tree/master/0820-find-eventual-safe-states) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/abhix201/LeetCode_Codes/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
