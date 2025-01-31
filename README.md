@@ -74,6 +74,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [1502-construct-k-palindrome-strings](https://github.com/abhix201/LeetCode_Codes/tree/master/1502-construct-k-palindrome-strings) |
 | [1694-make-sum-divisible-by-p](https://github.com/abhix201/LeetCode_Codes/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhix201/LeetCode_Codes/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/abhix201/LeetCode_Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhix201/LeetCode_Codes/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abhix201/LeetCode_Codes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/abhix201/LeetCode_Codes/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -97,6 +98,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/abhix201/LeetCode_Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhix201/LeetCode_Codes/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/abhix201/LeetCode_Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/abhix201/LeetCode_Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/abhix201/LeetCode_Codes/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhix201/LeetCode_Codes/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/abhix201/LeetCode_Codes/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -119,6 +121,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0260-single-number-iii](https://github.com/abhix201/LeetCode_Codes/tree/master/0260-single-number-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/abhix201/LeetCode_Codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhix201/LeetCode_Codes/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/abhix201/LeetCode_Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/abhix201/LeetCode_Codes/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/abhix201/LeetCode_Codes/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/abhix201/LeetCode_Codes/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -141,6 +144,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/abhix201/LeetCode_Codes/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/abhix201/LeetCode_Codes/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/abhix201/LeetCode_Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/abhix201/LeetCode_Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/abhix201/LeetCode_Codes/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/abhix201/LeetCode_Codes/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/2465-shifting-letters-ii) |
