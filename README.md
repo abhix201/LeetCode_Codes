@@ -71,6 +71,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0242-valid-anagram](https://github.com/abhix201/LeetCode_Codes/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/abhix201/LeetCode_Codes/tree/master/0567-permutation-in-string) |
 | [0837-most-common-word](https://github.com/abhix201/LeetCode_Codes/tree/master/0837-most-common-word) |
+| [0889-buddy-strings](https://github.com/abhix201/LeetCode_Codes/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/abhix201/LeetCode_Codes/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/abhix201/LeetCode_Codes/tree/master/0952-word-subsets) |
 | [1256-rank-transform-of-an-array](https://github.com/abhix201/LeetCode_Codes/tree/master/1256-rank-transform-of-an-array) |
@@ -93,6 +94,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0567-permutation-in-string](https://github.com/abhix201/LeetCode_Codes/tree/master/0567-permutation-in-string) |
 | [0837-most-common-word](https://github.com/abhix201/LeetCode_Codes/tree/master/0837-most-common-word) |
 | [0878-shifting-letters](https://github.com/abhix201/LeetCode_Codes/tree/master/0878-shifting-letters) |
+| [0889-buddy-strings](https://github.com/abhix201/LeetCode_Codes/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/abhix201/LeetCode_Codes/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/abhix201/LeetCode_Codes/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhix201/LeetCode_Codes/tree/master/0957-minimum-add-to-make-parentheses-valid) |
