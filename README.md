@@ -51,6 +51,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/abhix201/LeetCode_Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/abhix201/LeetCode_Codes/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/abhix201/LeetCode_Codes/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/abhix201/LeetCode_Codes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -84,6 +85,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/abhix201/LeetCode_Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhix201/LeetCode_Codes/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abhix201/LeetCode_Codes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/abhix201/LeetCode_Codes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/abhix201/LeetCode_Codes/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
@@ -227,6 +229,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2232-adding-spaces-to-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/abhix201/LeetCode_Codes/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/abhix201/LeetCode_Codes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Binary Search
 |  |
 | ------- |
