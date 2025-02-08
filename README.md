@@ -6,6 +6,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/abhix201/LeetCode_Codes/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/abhix201/LeetCode_Codes/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/abhix201/LeetCode_Codes/tree/master/0179-largest-number) |
@@ -55,6 +56,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/abhix201/LeetCode_Codes/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/abhix201/LeetCode_Codes/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/abhix201/LeetCode_Codes/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/abhix201/LeetCode_Codes/tree/master/0217-contains-duplicate) |
@@ -69,6 +71,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/abhix201/LeetCode_Codes/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/abhix201/LeetCode_Codes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhix201/LeetCode_Codes/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/abhix201/LeetCode_Codes/tree/master/0567-permutation-in-string) |
@@ -91,6 +94,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/abhix201/LeetCode_Codes/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/abhix201/LeetCode_Codes/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/abhix201/LeetCode_Codes/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/abhix201/LeetCode_Codes/tree/master/0443-string-compression) |
