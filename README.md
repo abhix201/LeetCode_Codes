@@ -11,6 +11,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0137-single-number-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/abhix201/LeetCode_Codes/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/abhix201/LeetCode_Codes/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/abhix201/LeetCode_Codes/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/abhix201/LeetCode_Codes/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/abhix201/LeetCode_Codes/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/0407-trapping-rain-water-ii) |
@@ -161,6 +162,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/abhix201/LeetCode_Codes/tree/master/0238-product-of-array-except-self) |
 | [0878-shifting-letters](https://github.com/abhix201/LeetCode_Codes/tree/master/0878-shifting-letters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/abhix201/LeetCode_Codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/abhix201/LeetCode_Codes/tree/master/1537-maximum-score-after-splitting-a-string) |
