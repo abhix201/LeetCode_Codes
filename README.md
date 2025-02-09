@@ -6,6 +6,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/abhix201/LeetCode_Codes/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/abhix201/LeetCode_Codes/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/abhix201/LeetCode_Codes/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/0137-single-number-ii) |
@@ -74,6 +75,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/abhix201/LeetCode_Codes/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/abhix201/LeetCode_Codes/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/abhix201/LeetCode_Codes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhix201/LeetCode_Codes/tree/master/0242-valid-anagram) |
@@ -292,6 +294,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/abhix201/LeetCode_Codes/tree/master/0036-valid-sudoku) |
 | [0407-trapping-rain-water-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/abhix201/LeetCode_Codes/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/abhix201/LeetCode_Codes/tree/master/1396-count-servers-that-communicate) |
