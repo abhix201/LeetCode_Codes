@@ -28,6 +28,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [1364-tuple-with-same-product](https://github.com/abhix201/LeetCode_Codes/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/abhix201/LeetCode_Codes/tree/master/1396-count-servers-that-communicate) |
 | [1435-xor-queries-of-a-subarray](https://github.com/abhix201/LeetCode_Codes/tree/master/1435-xor-queries-of-a-subarray) |
+| [1477-product-of-the-last-k-numbers](https://github.com/abhix201/LeetCode_Codes/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/abhix201/LeetCode_Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/abhix201/LeetCode_Codes/tree/master/1524-string-matching-in-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/abhix201/LeetCode_Codes/tree/master/1694-make-sum-divisible-by-p) |
@@ -176,6 +177,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0238-product-of-array-except-self](https://github.com/abhix201/LeetCode_Codes/tree/master/0238-product-of-array-except-self) |
 | [0878-shifting-letters](https://github.com/abhix201/LeetCode_Codes/tree/master/0878-shifting-letters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/abhix201/LeetCode_Codes/tree/master/1435-xor-queries-of-a-subarray) |
+| [1477-product-of-the-last-k-numbers](https://github.com/abhix201/LeetCode_Codes/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/abhix201/LeetCode_Codes/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/abhix201/LeetCode_Codes/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/abhix201/LeetCode_Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -193,6 +195,7 @@ This is the repository for all the leetcode successful submissions that will be 
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/abhix201/LeetCode_Codes/tree/master/0539-minimum-time-difference) |
+| [1477-product-of-the-last-k-numbers](https://github.com/abhix201/LeetCode_Codes/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhix201/LeetCode_Codes/tree/master/2448-count-number-of-bad-pairs) |
 | [2812-find-the-maximum-achievable-number](https://github.com/abhix201/LeetCode_Codes/tree/master/2812-find-the-maximum-achievable-number) |
 | [3568-find-the-key-of-the-numbers](https://github.com/abhix201/LeetCode_Codes/tree/master/3568-find-the-key-of-the-numbers) |
@@ -339,6 +342,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/abhix201/LeetCode_Codes/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/abhix201/LeetCode_Codes/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
@@ -356,4 +360,8 @@ This is the repository for all the leetcode successful submissions that will be 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/abhix201/LeetCode_Codes/tree/master/0347-top-k-frequent-elements) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/abhix201/LeetCode_Codes/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
