@@ -197,6 +197,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0539-minimum-time-difference](https://github.com/abhix201/LeetCode_Codes/tree/master/0539-minimum-time-difference) |
 | [1477-product-of-the-last-k-numbers](https://github.com/abhix201/LeetCode_Codes/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhix201/LeetCode_Codes/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/abhix201/LeetCode_Codes/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/abhix201/LeetCode_Codes/tree/master/2812-find-the-maximum-achievable-number) |
 | [3568-find-the-key-of-the-numbers](https://github.com/abhix201/LeetCode_Codes/tree/master/3568-find-the-key-of-the-numbers) |
 ## Greedy
@@ -364,4 +365,8 @@ This is the repository for all the leetcode successful submissions that will be 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/abhix201/LeetCode_Codes/tree/master/1477-product-of-the-last-k-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/abhix201/LeetCode_Codes/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
