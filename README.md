@@ -39,6 +39,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/abhix201/LeetCode_Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/abhix201/LeetCode_Codes/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/abhix201/LeetCode_Codes/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2107-find-unique-binary-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/abhix201/LeetCode_Codes/tree/master/2145-grid-game) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/abhix201/LeetCode_Codes/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2232-adding-spaces-to-a-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2232-adding-spaces-to-a-string) |
@@ -99,6 +100,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhix201/LeetCode_Codes/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/abhix201/LeetCode_Codes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/abhix201/LeetCode_Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/abhix201/LeetCode_Codes/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhix201/LeetCode_Codes/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhix201/LeetCode_Codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -135,6 +137,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/abhix201/LeetCode_Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/abhix201/LeetCode_Codes/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhix201/LeetCode_Codes/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2107-find-unique-binary-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2107-find-unique-binary-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/abhix201/LeetCode_Codes/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/abhix201/LeetCode_Codes/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -379,6 +382,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [1160-letter-tile-possibilities](https://github.com/abhix201/LeetCode_Codes/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/abhix201/LeetCode_Codes/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/abhix201/LeetCode_Codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/abhix201/LeetCode_Codes/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
