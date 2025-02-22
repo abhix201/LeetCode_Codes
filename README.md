@@ -125,6 +125,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0920-uncommon-words-from-two-sentences](https://github.com/abhix201/LeetCode_Codes/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/abhix201/LeetCode_Codes/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhix201/LeetCode_Codes/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhix201/LeetCode_Codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/abhix201/LeetCode_Codes/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/abhix201/LeetCode_Codes/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/abhix201/LeetCode_Codes/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -229,6 +230,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0684-redundant-connection](https://github.com/abhix201/LeetCode_Codes/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/abhix201/LeetCode_Codes/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/abhix201/LeetCode_Codes/tree/master/0854-making-a-large-island) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhix201/LeetCode_Codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhix201/LeetCode_Codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/abhix201/LeetCode_Codes/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/abhix201/LeetCode_Codes/tree/master/1558-course-schedule-iv) |
@@ -392,9 +394,11 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Tree
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhix201/LeetCode_Codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhix201/LeetCode_Codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhix201/LeetCode_Codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhix201/LeetCode_Codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
