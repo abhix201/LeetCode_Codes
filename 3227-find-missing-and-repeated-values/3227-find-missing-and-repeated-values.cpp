@@ -3,20 +3,25 @@ class Solution {
   vector<int> findMissingAndRepeatedValues(vector<vector<int>>& grid) {
     int n = grid.size();
     int range = n * n;
-    vector<int> ans;
+    int repeated = -1, missing = -1;
     vector<int> f(range + 1, 0);
-    for (auto i : grid) {
-      for (auto j : i) {
-        f[j]++;
-        if (f[j] > 1) ans.push_back(j);
+
+    // Count occurrences
+    for (auto& row : grid) {
+      for (int num : row) {
+        f[num]++;
+        if (f[num] > 1) repeated = num; // Store repeated value
       }
     }
+
+    // Find missing number
     for (int i = 1; i <= range; i++) {
       if (f[i] == 0) {
-        ans.push_back(i);
-        break;
+        missing = i;
+        break; // No need to check further
       }
     }
-    return ans;
+
+    return {repeated, missing};
   }
 };
