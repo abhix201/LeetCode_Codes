@@ -65,6 +65,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2792-neighboring-bitwise-xor](https://github.com/abhix201/LeetCode_Codes/tree/master/2792-neighboring-bitwise-xor) |
 | [2836-neither-minimum-nor-maximum](https://github.com/abhix201/LeetCode_Codes/tree/master/2836-neither-minimum-nor-maximum) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abhix201/LeetCode_Codes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/abhix201/LeetCode_Codes/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/abhix201/LeetCode_Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/abhix201/LeetCode_Codes/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -118,6 +119,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhix201/LeetCode_Codes/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/abhix201/LeetCode_Codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abhix201/LeetCode_Codes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/abhix201/LeetCode_Codes/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/abhix201/LeetCode_Codes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/abhix201/LeetCode_Codes/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
@@ -226,6 +228,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2649-count-total-number-of-colored-cells](https://github.com/abhix201/LeetCode_Codes/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/abhix201/LeetCode_Codes/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/abhix201/LeetCode_Codes/tree/master/2812-find-the-maximum-achievable-number) |
+| [3227-find-missing-and-repeated-values](https://github.com/abhix201/LeetCode_Codes/tree/master/3227-find-missing-and-repeated-values) |
 | [3568-find-the-key-of-the-numbers](https://github.com/abhix201/LeetCode_Codes/tree/master/3568-find-the-key-of-the-numbers) |
 ## Greedy
 |  |
@@ -362,6 +365,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/abhix201/LeetCode_Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/abhix201/LeetCode_Codes/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/abhix201/LeetCode_Codes/tree/master/2145-grid-game) |
+| [3227-find-missing-and-repeated-values](https://github.com/abhix201/LeetCode_Codes/tree/master/3227-find-missing-and-repeated-values) |
 ## Shortest Path
 |  |
 | ------- |
