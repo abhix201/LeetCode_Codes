@@ -71,6 +71,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/abhix201/LeetCode_Codes/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/abhix201/LeetCode_Codes/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/abhix201/LeetCode_Codes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3483-alternating-groups-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/3483-alternating-groups-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -284,6 +285,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | ------- |
 | [0567-permutation-in-string](https://github.com/abhix201/LeetCode_Codes/tree/master/0567-permutation-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abhix201/LeetCode_Codes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/3483-alternating-groups-ii) |
 ## Stack
 |  |
 | ------- |
