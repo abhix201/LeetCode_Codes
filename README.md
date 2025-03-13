@@ -74,6 +74,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [3429-special-array-i](https://github.com/abhix201/LeetCode_Codes/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/abhix201/LeetCode_Codes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -221,6 +222,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2358-number-of-ways-to-split-array](https://github.com/abhix201/LeetCode_Codes/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/abhix201/LeetCode_Codes/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3643-zero-array-transformation-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/3643-zero-array-transformation-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -322,6 +324,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhix201/LeetCode_Codes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/abhix201/LeetCode_Codes/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/abhix201/LeetCode_Codes/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/3643-zero-array-transformation-ii) |
 ## String Matching
 |  |
 | ------- |
