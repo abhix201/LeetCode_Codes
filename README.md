@@ -27,6 +27,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0952-word-subsets](https://github.com/abhix201/LeetCode_Codes/tree/master/0952-word-subsets) |
 | [1241-decompress-run-length-encoded-list](https://github.com/abhix201/LeetCode_Codes/tree/master/1241-decompress-run-length-encoded-list) |
 | [1256-rank-transform-of-an-array](https://github.com/abhix201/LeetCode_Codes/tree/master/1256-rank-transform-of-an-array) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/abhix201/LeetCode_Codes/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/abhix201/LeetCode_Codes/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/abhix201/LeetCode_Codes/tree/master/1396-count-servers-that-communicate) |
 | [1435-xor-queries-of-a-subarray](https://github.com/abhix201/LeetCode_Codes/tree/master/1435-xor-queries-of-a-subarray) |
@@ -321,6 +322,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Binary Search
 |  |
 | ------- |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/abhix201/LeetCode_Codes/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhix201/LeetCode_Codes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/abhix201/LeetCode_Codes/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/abhix201/LeetCode_Codes/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
