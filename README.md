@@ -62,6 +62,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2564-most-profitable-path-in-a-tree](https://github.com/abhix201/LeetCode_Codes/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhix201/LeetCode_Codes/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/abhix201/LeetCode_Codes/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/abhix201/LeetCode_Codes/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/abhix201/LeetCode_Codes/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/abhix201/LeetCode_Codes/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/abhix201/LeetCode_Codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -327,6 +328,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhix201/LeetCode_Codes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/abhix201/LeetCode_Codes/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/abhix201/LeetCode_Codes/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/abhix201/LeetCode_Codes/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/abhix201/LeetCode_Codes/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/3643-zero-array-transformation-ii) |
 ## String Matching
