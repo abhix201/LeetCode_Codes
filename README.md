@@ -17,6 +17,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0347-top-k-frequent-elements](https://github.com/abhix201/LeetCode_Codes/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/abhix201/LeetCode_Codes/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/abhix201/LeetCode_Codes/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/abhix201/LeetCode_Codes/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/abhix201/LeetCode_Codes/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/abhix201/LeetCode_Codes/tree/master/0539-minimum-time-difference) |
@@ -536,6 +537,7 @@ This is the repository for all the leetcode successful submissions that will be 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/abhix201/LeetCode_Codes/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/abhix201/LeetCode_Codes/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhix201/LeetCode_Codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/abhix201/LeetCode_Codes/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/abhix201/LeetCode_Codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
