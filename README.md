@@ -212,6 +212,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/abhix201/LeetCode_Codes/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/abhix201/LeetCode_Codes/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/abhix201/LeetCode_Codes/tree/master/3195-separate-black-and-white-balls) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/abhix201/LeetCode_Codes/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/abhix201/LeetCode_Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3379-score-of-a-string](https://github.com/abhix201/LeetCode_Codes/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/abhix201/LeetCode_Codes/tree/master/3447-clear-digits) |
@@ -292,6 +293,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2812-find-the-maximum-achievable-number](https://github.com/abhix201/LeetCode_Codes/tree/master/2812-find-the-maximum-achievable-number) |
 | [3001-apply-operations-to-maximize-score](https://github.com/abhix201/LeetCode_Codes/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/abhix201/LeetCode_Codes/tree/master/3227-find-missing-and-repeated-values) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/abhix201/LeetCode_Codes/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3568-find-the-key-of-the-numbers](https://github.com/abhix201/LeetCode_Codes/tree/master/3568-find-the-key-of-the-numbers) |
 ## Greedy
 |  |
@@ -548,6 +550,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/abhix201/LeetCode_Codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhix201/LeetCode_Codes/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/abhix201/LeetCode_Codes/tree/master/2262-solving-questions-with-brainpower) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/abhix201/LeetCode_Codes/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Number Theory
 |  |
 | ------- |
