@@ -1,19 +1,21 @@
 class Solution {
+private:
+    int countDigits(int n){
+        int count = 0;
+        while(n){
+            int x = n % 10;
+            count++;
+            n /= 10;
+        }
+        return count;
+    }
 public:
     int findNumbers(vector<int>& nums) {
-        int finalCount = 0;
-        int size = nums.size();
-        for(int i = 0 ; i < size ; i++){
-            int digitCount = 0;
-            while(nums[i] > 0){
-                int rem = nums[i] % 10;
-                digitCount++;
-                nums[i] /= 10;
-            }
-            if(digitCount % 2 == 0){
-                finalCount++;
-            }
+        int ans = 0;
+        for(int i : nums){
+            int n = countDigits(i);
+            if(n % 2 == 0) ans++;
         }
-        return finalCount;
+        return ans;
     }
 };
