@@ -201,6 +201,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0567-permutation-in-string](https://github.com/abhix201/LeetCode_Codes/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/abhix201/LeetCode_Codes/tree/master/0768-partition-labels) |
 | [0837-most-common-word](https://github.com/abhix201/LeetCode_Codes/tree/master/0837-most-common-word) |
+| [0868-push-dominoes](https://github.com/abhix201/LeetCode_Codes/tree/master/0868-push-dominoes) |
 | [0878-shifting-letters](https://github.com/abhix201/LeetCode_Codes/tree/master/0878-shifting-letters) |
 | [0889-buddy-strings](https://github.com/abhix201/LeetCode_Codes/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/abhix201/LeetCode_Codes/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -373,6 +374,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0455-assign-cookies](https://github.com/abhix201/LeetCode_Codes/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/abhix201/LeetCode_Codes/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/abhix201/LeetCode_Codes/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/abhix201/LeetCode_Codes/tree/master/0868-push-dominoes) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/abhix201/LeetCode_Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/abhix201/LeetCode_Codes/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhix201/LeetCode_Codes/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -591,6 +593,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/abhix201/LeetCode_Codes/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/abhix201/LeetCode_Codes/tree/master/0416-partition-equal-subset-sum) |
+| [0868-push-dominoes](https://github.com/abhix201/LeetCode_Codes/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhix201/LeetCode_Codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/abhix201/LeetCode_Codes/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/abhix201/LeetCode_Codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
