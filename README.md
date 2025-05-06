@@ -53,6 +53,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/abhix201/LeetCode_Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/abhix201/LeetCode_Codes/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/abhix201/LeetCode_Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/abhix201/LeetCode_Codes/tree/master/2048-build-array-from-permutation) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/abhix201/LeetCode_Codes/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2107-find-unique-binary-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/abhix201/LeetCode_Codes/tree/master/2145-grid-game) |
@@ -424,6 +425,7 @@ This is the repository for all the leetcode successful submissions that will be 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/abhix201/LeetCode_Codes/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2048-build-array-from-permutation](https://github.com/abhix201/LeetCode_Codes/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/abhix201/LeetCode_Codes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/abhix201/LeetCode_Codes/tree/master/2551-apply-operations-to-an-array) |
