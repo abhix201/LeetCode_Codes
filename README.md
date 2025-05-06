@@ -6,6 +6,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhix201/LeetCode_Codes/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/abhix201/LeetCode_Codes/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/abhix201/LeetCode_Codes/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/abhix201/LeetCode_Codes/tree/master/0075-sort-colors) |
@@ -145,6 +146,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhix201/LeetCode_Codes/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/abhix201/LeetCode_Codes/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/abhix201/LeetCode_Codes/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/abhix201/LeetCode_Codes/tree/master/0217-contains-duplicate) |
