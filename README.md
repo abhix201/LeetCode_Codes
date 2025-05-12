@@ -61,6 +61,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/abhix201/LeetCode_Codes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/abhix201/LeetCode_Codes/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/abhix201/LeetCode_Codes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2215-finding-3-digit-even-numbers](https://github.com/abhix201/LeetCode_Codes/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/abhix201/LeetCode_Codes/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2232-adding-spaces-to-a-string) |
 | [2249-count-the-hidden-sequences](https://github.com/abhix201/LeetCode_Codes/tree/master/2249-count-the-hidden-sequences) |
@@ -137,6 +138,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/abhix201/LeetCode_Codes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/abhix201/LeetCode_Codes/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/abhix201/LeetCode_Codes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2215-finding-3-digit-even-numbers](https://github.com/abhix201/LeetCode_Codes/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhix201/LeetCode_Codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhix201/LeetCode_Codes/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/abhix201/LeetCode_Codes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -180,6 +182,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/abhix201/LeetCode_Codes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/abhix201/LeetCode_Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2107-find-unique-binary-string) |
+| [2215-finding-3-digit-even-numbers](https://github.com/abhix201/LeetCode_Codes/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/abhix201/LeetCode_Codes/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/abhix201/LeetCode_Codes/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/abhix201/LeetCode_Codes/tree/master/2434-design-a-number-container-system) |
@@ -656,6 +659,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | ------- |
 | [1656-count-good-triplets](https://github.com/abhix201/LeetCode_Codes/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/abhix201/LeetCode_Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2215-finding-3-digit-even-numbers](https://github.com/abhix201/LeetCode_Codes/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/abhix201/LeetCode_Codes/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/abhix201/LeetCode_Codes/tree/master/3548-find-the-count-of-good-integers) |
 ## Recursion
