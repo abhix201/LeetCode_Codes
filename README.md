@@ -100,6 +100,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2888-minimum-index-of-a-valid-split](https://github.com/abhix201/LeetCode_Codes/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/abhix201/LeetCode_Codes/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/abhix201/LeetCode_Codes/tree/master/3001-apply-operations-to-maximize-score) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/abhix201/LeetCode_Codes/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/abhix201/LeetCode_Codes/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/abhix201/LeetCode_Codes/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -250,6 +251,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2691-count-vowel-strings-in-ranges](https://github.com/abhix201/LeetCode_Codes/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/abhix201/LeetCode_Codes/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/abhix201/LeetCode_Codes/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/abhix201/LeetCode_Codes/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3195-separate-black-and-white-balls](https://github.com/abhix201/LeetCode_Codes/tree/master/3195-separate-black-and-white-balls) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/abhix201/LeetCode_Codes/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/abhix201/LeetCode_Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -370,6 +372,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2509-minimize-xor](https://github.com/abhix201/LeetCode_Codes/tree/master/2509-minimize-xor) |
 | [2681-put-marbles-in-bags](https://github.com/abhix201/LeetCode_Codes/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/abhix201/LeetCode_Codes/tree/master/3001-apply-operations-to-maximize-score) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/abhix201/LeetCode_Codes/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/abhix201/LeetCode_Codes/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/abhix201/LeetCode_Codes/tree/master/3195-separate-black-and-white-balls) |
 ## Depth-First Search
@@ -637,6 +640,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhix201/LeetCode_Codes/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/abhix201/LeetCode_Codes/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/abhix201/LeetCode_Codes/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/abhix201/LeetCode_Codes/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/abhix201/LeetCode_Codes/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/abhix201/LeetCode_Codes/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/3630-total-characters-in-string-after-transformations-ii) |
