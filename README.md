@@ -9,6 +9,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0001-two-sum](https://github.com/abhix201/LeetCode_Codes/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/abhix201/LeetCode_Codes/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/abhix201/LeetCode_Codes/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/abhix201/LeetCode_Codes/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/abhix201/LeetCode_Codes/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/abhix201/LeetCode_Codes/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/abhix201/LeetCode_Codes/tree/master/0075-sort-colors) |
@@ -423,6 +424,7 @@ This is the repository for all the leetcode successful submissions that will be 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/abhix201/LeetCode_Codes/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/abhix201/LeetCode_Codes/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/abhix201/LeetCode_Codes/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhix201/LeetCode_Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/abhix201/LeetCode_Codes/tree/master/0443-string-compression) |
@@ -460,6 +462,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/abhix201/LeetCode_Codes/tree/master/0042-trapping-rain-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhix201/LeetCode_Codes/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/abhix201/LeetCode_Codes/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhix201/LeetCode_Codes/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -660,6 +663,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/abhix201/LeetCode_Codes/tree/master/0042-trapping-rain-water) |
 | [0368-largest-divisible-subset](https://github.com/abhix201/LeetCode_Codes/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/abhix201/LeetCode_Codes/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/abhix201/LeetCode_Codes/tree/master/0806-domino-and-tromino-tiling) |
@@ -694,6 +698,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/abhix201/LeetCode_Codes/tree/master/0042-trapping-rain-water) |
 | [3001-apply-operations-to-maximize-score](https://github.com/abhix201/LeetCode_Codes/tree/master/3001-apply-operations-to-maximize-score) |
 ## Combinatorics
 |  |
