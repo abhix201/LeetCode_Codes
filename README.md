@@ -7,6 +7,7 @@ This is the repository for all the leetcode successful submissions that will be 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhix201/LeetCode_Codes/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/abhix201/LeetCode_Codes/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/abhix201/LeetCode_Codes/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/abhix201/LeetCode_Codes/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/abhix201/LeetCode_Codes/tree/master/0073-set-matrix-zeroes) |
@@ -134,6 +135,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abhix201/LeetCode_Codes/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/abhix201/LeetCode_Codes/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/abhix201/LeetCode_Codes/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/abhix201/LeetCode_Codes/tree/master/0179-largest-number) |
@@ -418,6 +420,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abhix201/LeetCode_Codes/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/abhix201/LeetCode_Codes/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhix201/LeetCode_Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/abhix201/LeetCode_Codes/tree/master/0443-string-compression) |
