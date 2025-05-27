@@ -8,6 +8,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | ------- |
 | [0001-two-sum](https://github.com/abhix201/LeetCode_Codes/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/abhix201/LeetCode_Codes/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/abhix201/LeetCode_Codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/abhix201/LeetCode_Codes/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/abhix201/LeetCode_Codes/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/abhix201/LeetCode_Codes/tree/master/0049-group-anagrams) |
@@ -495,6 +496,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/abhix201/LeetCode_Codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhix201/LeetCode_Codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhix201/LeetCode_Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/abhix201/LeetCode_Codes/tree/master/1335-maximum-candies-allocated-to-k-children) |
