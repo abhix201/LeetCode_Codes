@@ -15,6 +15,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0073-set-matrix-zeroes](https://github.com/abhix201/LeetCode_Codes/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/abhix201/LeetCode_Codes/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/abhix201/LeetCode_Codes/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/abhix201/LeetCode_Codes/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhix201/LeetCode_Codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhix201/LeetCode_Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -392,6 +393,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/abhix201/LeetCode_Codes/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/abhix201/LeetCode_Codes/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/abhix201/LeetCode_Codes/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/abhix201/LeetCode_Codes/tree/master/0768-partition-labels) |
