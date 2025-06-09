@@ -445,6 +445,7 @@ This is the repository for all the leetcode successful submissions that will be 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/abhix201/LeetCode_Codes/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/abhix201/LeetCode_Codes/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/abhix201/LeetCode_Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Two Pointers
 |  |
