@@ -67,6 +67,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2048-build-array-from-permutation](https://github.com/abhix201/LeetCode_Codes/tree/master/2048-build-array-from-permutation) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/abhix201/LeetCode_Codes/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2107-find-unique-binary-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2107-find-unique-binary-string) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/abhix201/LeetCode_Codes/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/abhix201/LeetCode_Codes/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/abhix201/LeetCode_Codes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/abhix201/LeetCode_Codes/tree/master/2179-most-beautiful-item-for-each-query) |
