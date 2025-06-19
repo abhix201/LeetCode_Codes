@@ -85,6 +85,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2308-divide-array-into-equal-pairs](https://github.com/abhix201/LeetCode_Codes/tree/master/2308-divide-array-into-equal-pairs) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/abhix201/LeetCode_Codes/tree/master/2358-number-of-ways-to-split-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/abhix201/LeetCode_Codes/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/abhix201/LeetCode_Codes/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhix201/LeetCode_Codes/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/2465-shifting-letters-ii) |
@@ -162,6 +163,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2179-most-beautiful-item-for-each-query](https://github.com/abhix201/LeetCode_Codes/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/abhix201/LeetCode_Codes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/abhix201/LeetCode_Codes/tree/master/2215-finding-3-digit-even-numbers) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/abhix201/LeetCode_Codes/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhix201/LeetCode_Codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhix201/LeetCode_Codes/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/abhix201/LeetCode_Codes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -426,6 +428,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/abhix201/LeetCode_Codes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/abhix201/LeetCode_Codes/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/abhix201/LeetCode_Codes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/abhix201/LeetCode_Codes/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/abhix201/LeetCode_Codes/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
