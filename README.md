@@ -69,6 +69,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2107-find-unique-binary-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/abhix201/LeetCode_Codes/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/abhix201/LeetCode_Codes/tree/master/2145-grid-game) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/abhix201/LeetCode_Codes/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/abhix201/LeetCode_Codes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/abhix201/LeetCode_Codes/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/abhix201/LeetCode_Codes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -554,6 +555,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhix201/LeetCode_Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/abhix201/LeetCode_Codes/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhix201/LeetCode_Codes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/abhix201/LeetCode_Codes/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/abhix201/LeetCode_Codes/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/abhix201/LeetCode_Codes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/abhix201/LeetCode_Codes/tree/master/2280-count-good-triplets-in-an-array) |
