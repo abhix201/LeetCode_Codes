@@ -345,6 +345,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/abhix201/LeetCode_Codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/abhix201/LeetCode_Codes/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/abhix201/LeetCode_Codes/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/abhix201/LeetCode_Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
 | ------- |
@@ -433,6 +434,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [3321-type-of-triangle](https://github.com/abhix201/LeetCode_Codes/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/abhix201/LeetCode_Codes/tree/master/3548-find-the-count-of-good-integers) |
 | [3568-find-the-key-of-the-numbers](https://github.com/abhix201/LeetCode_Codes/tree/master/3568-find-the-key-of-the-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/abhix201/LeetCode_Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/abhix201/LeetCode_Codes/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/abhix201/LeetCode_Codes/tree/master/3637-count-number-of-balanced-permutations) |
@@ -566,6 +568,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/abhix201/LeetCode_Codes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/abhix201/LeetCode_Codes/tree/master/3447-clear-digits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/abhix201/LeetCode_Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -832,6 +835,7 @@ This is the repository for all the leetcode successful submissions that will be 
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/abhix201/LeetCode_Codes/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/abhix201/LeetCode_Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
