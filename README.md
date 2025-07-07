@@ -52,6 +52,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [1435-xor-queries-of-a-subarray](https://github.com/abhix201/LeetCode_Codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhix201/LeetCode_Codes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/abhix201/LeetCode_Codes/tree/master/1477-product-of-the-last-k-numbers) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhix201/LeetCode_Codes/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/abhix201/LeetCode_Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/abhix201/LeetCode_Codes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/abhix201/LeetCode_Codes/tree/master/1524-string-matching-in-an-array) |
@@ -165,6 +166,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0539-minimum-time-difference](https://github.com/abhix201/LeetCode_Codes/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/abhix201/LeetCode_Codes/tree/master/0594-longest-harmonious-subsequence) |
 | [1256-rank-transform-of-an-array](https://github.com/abhix201/LeetCode_Codes/tree/master/1256-rank-transform-of-an-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhix201/LeetCode_Codes/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhix201/LeetCode_Codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/abhix201/LeetCode_Codes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/abhix201/LeetCode_Codes/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -455,6 +457,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0797-rabbits-in-forest](https://github.com/abhix201/LeetCode_Codes/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhix201/LeetCode_Codes/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/abhix201/LeetCode_Codes/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhix201/LeetCode_Codes/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/abhix201/LeetCode_Codes/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/abhix201/LeetCode_Codes/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhix201/LeetCode_Codes/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -655,6 +658,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/abhix201/LeetCode_Codes/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/0407-trapping-rain-water-ii) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhix201/LeetCode_Codes/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/abhix201/LeetCode_Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/abhix201/LeetCode_Codes/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2434-design-a-number-container-system](https://github.com/abhix201/LeetCode_Codes/tree/master/2434-design-a-number-container-system) |
