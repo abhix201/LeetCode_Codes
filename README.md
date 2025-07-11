@@ -99,6 +99,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2465-shifting-letters-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhix201/LeetCode_Codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/abhix201/LeetCode_Codes/tree/master/2478-longest-nice-subarray) |
+| [2479-meeting-rooms-iii](https://github.com/abhix201/LeetCode_Codes/tree/master/2479-meeting-rooms-iii) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/abhix201/LeetCode_Codes/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/abhix201/LeetCode_Codes/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/abhix201/LeetCode_Codes/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -180,6 +181,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2215-finding-3-digit-even-numbers](https://github.com/abhix201/LeetCode_Codes/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/abhix201/LeetCode_Codes/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhix201/LeetCode_Codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/abhix201/LeetCode_Codes/tree/master/2479-meeting-rooms-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhix201/LeetCode_Codes/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/abhix201/LeetCode_Codes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/abhix201/LeetCode_Codes/tree/master/2681-put-marbles-in-bags) |
@@ -241,6 +243,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2434-design-a-number-container-system](https://github.com/abhix201/LeetCode_Codes/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhix201/LeetCode_Codes/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhix201/LeetCode_Codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/abhix201/LeetCode_Codes/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhix201/LeetCode_Codes/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/abhix201/LeetCode_Codes/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -580,6 +583,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2232-adding-spaces-to-a-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/abhix201/LeetCode_Codes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/abhix201/LeetCode_Codes/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2479-meeting-rooms-iii](https://github.com/abhix201/LeetCode_Codes/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/abhix201/LeetCode_Codes/tree/master/2551-apply-operations-to-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/abhix201/LeetCode_Codes/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -673,6 +677,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/abhix201/LeetCode_Codes/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2434-design-a-number-container-system](https://github.com/abhix201/LeetCode_Codes/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhix201/LeetCode_Codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/abhix201/LeetCode_Codes/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/abhix201/LeetCode_Codes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/abhix201/LeetCode_Codes/tree/master/2681-put-marbles-in-bags) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
