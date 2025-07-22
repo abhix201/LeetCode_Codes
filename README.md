@@ -62,6 +62,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [1656-count-good-triplets](https://github.com/abhix201/LeetCode_Codes/tree/master/1656-count-good-triplets) |
 | [1694-make-sum-divisible-by-p](https://github.com/abhix201/LeetCode_Codes/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhix201/LeetCode_Codes/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1813-maximum-erasure-value](https://github.com/abhix201/LeetCode_Codes/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/abhix201/LeetCode_Codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/abhix201/LeetCode_Codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -237,6 +238,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [1510-find-lucky-integer-in-an-array](https://github.com/abhix201/LeetCode_Codes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/abhix201/LeetCode_Codes/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhix201/LeetCode_Codes/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1813-maximum-erasure-value](https://github.com/abhix201/LeetCode_Codes/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/abhix201/LeetCode_Codes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/abhix201/LeetCode_Codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/abhix201/LeetCode_Codes/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -567,6 +569,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0567-permutation-in-string](https://github.com/abhix201/LeetCode_Codes/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/abhix201/LeetCode_Codes/tree/master/0594-longest-harmonious-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/abhix201/LeetCode_Codes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1813-maximum-erasure-value](https://github.com/abhix201/LeetCode_Codes/tree/master/1813-maximum-erasure-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/abhix201/LeetCode_Codes/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abhix201/LeetCode_Codes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/abhix201/LeetCode_Codes/tree/master/2478-longest-nice-subarray) |
