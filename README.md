@@ -95,6 +95,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2280-count-good-triplets-in-an-array](https://github.com/abhix201/LeetCode_Codes/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/abhix201/LeetCode_Codes/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/abhix201/LeetCode_Codes/tree/master/2308-divide-array-into-equal-pairs) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/abhix201/LeetCode_Codes/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/abhix201/LeetCode_Codes/tree/master/2358-number-of-ways-to-split-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/abhix201/LeetCode_Codes/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
