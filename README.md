@@ -37,6 +37,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0878-shifting-letters](https://github.com/abhix201/LeetCode_Codes/tree/master/0878-shifting-letters) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhix201/LeetCode_Codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/abhix201/LeetCode_Codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/abhix201/LeetCode_Codes/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/abhix201/LeetCode_Codes/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/abhix201/LeetCode_Codes/tree/master/0952-word-subsets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/abhix201/LeetCode_Codes/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -366,6 +367,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | ------- |
 | [0137-single-number-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/abhix201/LeetCode_Codes/tree/master/0260-single-number-iii) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/abhix201/LeetCode_Codes/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/abhix201/LeetCode_Codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhix201/LeetCode_Codes/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/abhix201/LeetCode_Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -843,6 +845,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0806-domino-and-tromino-tiling](https://github.com/abhix201/LeetCode_Codes/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/abhix201/LeetCode_Codes/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhix201/LeetCode_Codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/abhix201/LeetCode_Codes/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1170-shortest-common-supersequence](https://github.com/abhix201/LeetCode_Codes/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/abhix201/LeetCode_Codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/abhix201/LeetCode_Codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
