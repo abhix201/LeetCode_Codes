@@ -376,6 +376,7 @@ This is the repository for all the leetcode successful submissions that will be 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/abhix201/LeetCode_Codes/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/abhix201/LeetCode_Codes/tree/master/0260-single-number-iii) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhix201/LeetCode_Codes/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/abhix201/LeetCode_Codes/tree/master/1435-xor-queries-of-a-subarray) |
@@ -459,6 +460,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/abhix201/LeetCode_Codes/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/abhix201/LeetCode_Codes/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/abhix201/LeetCode_Codes/tree/master/0539-minimum-time-difference) |
 | [0797-rabbits-in-forest](https://github.com/abhix201/LeetCode_Codes/tree/master/0797-rabbits-in-forest) |
@@ -938,6 +940,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/abhix201/LeetCode_Codes/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/abhix201/LeetCode_Codes/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abhix201/LeetCode_Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
