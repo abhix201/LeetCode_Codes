@@ -344,6 +344,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/abhix201/LeetCode_Codes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/abhix201/LeetCode_Codes/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/abhix201/LeetCode_Codes/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abhix201/LeetCode_Codes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
