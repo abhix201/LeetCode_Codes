@@ -32,6 +32,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0485-max-consecutive-ones](https://github.com/abhix201/LeetCode_Codes/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/abhix201/LeetCode_Codes/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/abhix201/LeetCode_Codes/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/abhix201/LeetCode_Codes/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/abhix201/LeetCode_Codes/tree/master/0797-rabbits-in-forest) |
 | [0837-most-common-word](https://github.com/abhix201/LeetCode_Codes/tree/master/0837-most-common-word) |
 | [0854-making-a-large-island](https://github.com/abhix201/LeetCode_Codes/tree/master/0854-making-a-large-island) |
@@ -473,6 +474,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0342-power-of-four](https://github.com/abhix201/LeetCode_Codes/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/abhix201/LeetCode_Codes/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/abhix201/LeetCode_Codes/tree/master/0539-minimum-time-difference) |
+| [0679-24-game](https://github.com/abhix201/LeetCode_Codes/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/abhix201/LeetCode_Codes/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/abhix201/LeetCode_Codes/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/abhix201/LeetCode_Codes/tree/master/0867-new-21-game) |
@@ -847,6 +849,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/abhix201/LeetCode_Codes/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/abhix201/LeetCode_Codes/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/abhix201/LeetCode_Codes/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/abhix201/LeetCode_Codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
