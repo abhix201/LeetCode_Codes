@@ -30,6 +30,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0416-partition-equal-subset-sum](https://github.com/abhix201/LeetCode_Codes/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/abhix201/LeetCode_Codes/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/abhix201/LeetCode_Codes/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/abhix201/LeetCode_Codes/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/abhix201/LeetCode_Codes/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/abhix201/LeetCode_Codes/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/abhix201/LeetCode_Codes/tree/master/0679-24-game) |
@@ -659,6 +660,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/abhix201/LeetCode_Codes/tree/master/0498-diagonal-traverse) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/abhix201/LeetCode_Codes/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/abhix201/LeetCode_Codes/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2232-adding-spaces-to-a-string) |
@@ -779,6 +781,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0036-valid-sudoku](https://github.com/abhix201/LeetCode_Codes/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/abhix201/LeetCode_Codes/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/abhix201/LeetCode_Codes/tree/master/0498-diagonal-traverse) |
 | [0854-making-a-large-island](https://github.com/abhix201/LeetCode_Codes/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/abhix201/LeetCode_Codes/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/abhix201/LeetCode_Codes/tree/master/1396-count-servers-that-communicate) |
