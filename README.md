@@ -10,6 +10,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0015-3sum](https://github.com/abhix201/LeetCode_Codes/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhix201/LeetCode_Codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/abhix201/LeetCode_Codes/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/abhix201/LeetCode_Codes/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/abhix201/LeetCode_Codes/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/abhix201/LeetCode_Codes/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/abhix201/LeetCode_Codes/tree/master/0073-set-matrix-zeroes) |
@@ -238,6 +239,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | ------- |
 | [0001-two-sum](https://github.com/abhix201/LeetCode_Codes/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/abhix201/LeetCode_Codes/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/abhix201/LeetCode_Codes/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/abhix201/LeetCode_Codes/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/abhix201/LeetCode_Codes/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/abhix201/LeetCode_Codes/tree/master/0128-longest-consecutive-sequence) |
@@ -784,6 +786,7 @@ This is the repository for all the leetcode successful submissions that will be 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/abhix201/LeetCode_Codes/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/abhix201/LeetCode_Codes/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/abhix201/LeetCode_Codes/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/abhix201/LeetCode_Codes/tree/master/0498-diagonal-traverse) |
@@ -870,6 +873,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/abhix201/LeetCode_Codes/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/abhix201/LeetCode_Codes/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/abhix201/LeetCode_Codes/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/abhix201/LeetCode_Codes/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
