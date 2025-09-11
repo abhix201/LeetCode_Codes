@@ -229,6 +229,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2689-rearranging-fruits](https://github.com/abhix201/LeetCode_Codes/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/abhix201/LeetCode_Codes/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2836-neither-minimum-nor-maximum](https://github.com/abhix201/LeetCode_Codes/tree/master/2836-neither-minimum-nor-maximum) |
+| [2887-sort-vowels-in-a-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/abhix201/LeetCode_Codes/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/abhix201/LeetCode_Codes/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abhix201/LeetCode_Codes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -374,6 +375,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/abhix201/LeetCode_Codes/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/abhix201/LeetCode_Codes/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2887-sort-vowels-in-a-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2887-sort-vowels-in-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/abhix201/LeetCode_Codes/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/abhix201/LeetCode_Codes/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
