@@ -45,6 +45,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0940-fruit-into-baskets](https://github.com/abhix201/LeetCode_Codes/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/abhix201/LeetCode_Codes/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/abhix201/LeetCode_Codes/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/abhix201/LeetCode_Codes/tree/master/1006-vowel-spellchecker) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/abhix201/LeetCode_Codes/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/abhix201/LeetCode_Codes/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1241-decompress-run-length-encoded-list](https://github.com/abhix201/LeetCode_Codes/tree/master/1241-decompress-run-length-encoded-list) |
@@ -267,6 +268,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/abhix201/LeetCode_Codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/abhix201/LeetCode_Codes/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/abhix201/LeetCode_Codes/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/abhix201/LeetCode_Codes/tree/master/1006-vowel-spellchecker) |
 | [1160-letter-tile-possibilities](https://github.com/abhix201/LeetCode_Codes/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhix201/LeetCode_Codes/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/abhix201/LeetCode_Codes/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -338,6 +340,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0920-uncommon-words-from-two-sentences](https://github.com/abhix201/LeetCode_Codes/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/abhix201/LeetCode_Codes/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhix201/LeetCode_Codes/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1006-vowel-spellchecker](https://github.com/abhix201/LeetCode_Codes/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/abhix201/LeetCode_Codes/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhix201/LeetCode_Codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/abhix201/LeetCode_Codes/tree/master/1160-letter-tile-possibilities) |
