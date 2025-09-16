@@ -109,6 +109,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/abhix201/LeetCode_Codes/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/abhix201/LeetCode_Codes/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/abhix201/LeetCode_Codes/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/abhix201/LeetCode_Codes/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/abhix201/LeetCode_Codes/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/abhix201/LeetCode_Codes/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -526,6 +527,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2050-count-good-numbers](https://github.com/abhix201/LeetCode_Codes/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/abhix201/LeetCode_Codes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/abhix201/LeetCode_Codes/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/abhix201/LeetCode_Codes/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/abhix201/LeetCode_Codes/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhix201/LeetCode_Codes/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/abhix201/LeetCode_Codes/tree/master/2610-closest-prime-numbers-in-range) |
@@ -687,6 +689,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/abhix201/LeetCode_Codes/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhix201/LeetCode_Codes/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/abhix201/LeetCode_Codes/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/abhix201/LeetCode_Codes/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/abhix201/LeetCode_Codes/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -979,6 +982,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Number Theory
 |  |
 | ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/abhix201/LeetCode_Codes/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/abhix201/LeetCode_Codes/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/abhix201/LeetCode_Codes/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/abhix201/LeetCode_Codes/tree/master/3001-apply-operations-to-maximize-score) |
