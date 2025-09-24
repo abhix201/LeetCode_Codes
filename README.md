@@ -258,6 +258,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0049-group-anagrams](https://github.com/abhix201/LeetCode_Codes/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/abhix201/LeetCode_Codes/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/abhix201/LeetCode_Codes/tree/master/0128-longest-consecutive-sequence) |
+| [0166-fraction-to-recurring-decimal](https://github.com/abhix201/LeetCode_Codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/abhix201/LeetCode_Codes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhix201/LeetCode_Codes/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/abhix201/LeetCode_Codes/tree/master/0347-top-k-frequent-elements) |
@@ -338,6 +339,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | ------- |
 | [0049-group-anagrams](https://github.com/abhix201/LeetCode_Codes/tree/master/0049-group-anagrams) |
 | [0165-compare-version-numbers](https://github.com/abhix201/LeetCode_Codes/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/abhix201/LeetCode_Codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/abhix201/LeetCode_Codes/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/abhix201/LeetCode_Codes/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/abhix201/LeetCode_Codes/tree/master/0443-string-compression) |
@@ -517,6 +519,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/abhix201/LeetCode_Codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/abhix201/LeetCode_Codes/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/abhix201/LeetCode_Codes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/abhix201/LeetCode_Codes/tree/master/0342-power-of-four) |
