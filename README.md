@@ -35,6 +35,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0498-diagonal-traverse](https://github.com/abhix201/LeetCode_Codes/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/abhix201/LeetCode_Codes/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/abhix201/LeetCode_Codes/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/abhix201/LeetCode_Codes/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/abhix201/LeetCode_Codes/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/abhix201/LeetCode_Codes/tree/master/0797-rabbits-in-forest) |
 | [0837-most-common-word](https://github.com/abhix201/LeetCode_Codes/tree/master/0837-most-common-word) |
@@ -216,6 +217,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0455-assign-cookies](https://github.com/abhix201/LeetCode_Codes/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/abhix201/LeetCode_Codes/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/abhix201/LeetCode_Codes/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/abhix201/LeetCode_Codes/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/abhix201/LeetCode_Codes/tree/master/0900-reordered-power-of-2) |
 | [1256-rank-transform-of-an-array](https://github.com/abhix201/LeetCode_Codes/tree/master/1256-rank-transform-of-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhix201/LeetCode_Codes/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -579,6 +581,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0135-candy](https://github.com/abhix201/LeetCode_Codes/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/abhix201/LeetCode_Codes/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/abhix201/LeetCode_Codes/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/abhix201/LeetCode_Codes/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/abhix201/LeetCode_Codes/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/abhix201/LeetCode_Codes/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhix201/LeetCode_Codes/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -656,6 +659,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0443-string-compression](https://github.com/abhix201/LeetCode_Codes/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/abhix201/LeetCode_Codes/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/abhix201/LeetCode_Codes/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/abhix201/LeetCode_Codes/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/abhix201/LeetCode_Codes/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/abhix201/LeetCode_Codes/tree/master/0868-push-dominoes) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/abhix201/LeetCode_Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -738,6 +742,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0033-search-in-rotated-sorted-array](https://github.com/abhix201/LeetCode_Codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhix201/LeetCode_Codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhix201/LeetCode_Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0611-valid-triangle-number](https://github.com/abhix201/LeetCode_Codes/tree/master/0611-valid-triangle-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/abhix201/LeetCode_Codes/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhix201/LeetCode_Codes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhix201/LeetCode_Codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
