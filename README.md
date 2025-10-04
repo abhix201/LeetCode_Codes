@@ -7,6 +7,7 @@ This is the repository for all the leetcode successful submissions that will be 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhix201/LeetCode_Codes/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/abhix201/LeetCode_Codes/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/abhix201/LeetCode_Codes/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhix201/LeetCode_Codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/abhix201/LeetCode_Codes/tree/master/0036-valid-sudoku) |
@@ -590,6 +591,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhix201/LeetCode_Codes/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/abhix201/LeetCode_Codes/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/abhix201/LeetCode_Codes/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/abhix201/LeetCode_Codes/tree/master/0455-assign-cookies) |
@@ -664,6 +666,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhix201/LeetCode_Codes/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/abhix201/LeetCode_Codes/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/abhix201/LeetCode_Codes/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/abhix201/LeetCode_Codes/tree/master/0075-sort-colors) |
