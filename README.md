@@ -148,6 +148,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/abhix201/LeetCode_Codes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/abhix201/LeetCode_Codes/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/abhix201/LeetCode_Codes/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/abhix201/LeetCode_Codes/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/abhix201/LeetCode_Codes/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/abhix201/LeetCode_Codes/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/abhix201/LeetCode_Codes/tree/master/2689-rearranging-fruits) |
@@ -336,6 +337,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhix201/LeetCode_Codes/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/abhix201/LeetCode_Codes/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/abhix201/LeetCode_Codes/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/abhix201/LeetCode_Codes/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/abhix201/LeetCode_Codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abhix201/LeetCode_Codes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -585,6 +587,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2448-count-number-of-bad-pairs](https://github.com/abhix201/LeetCode_Codes/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/abhix201/LeetCode_Codes/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/abhix201/LeetCode_Codes/tree/master/2649-count-total-number-of-colored-cells) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/abhix201/LeetCode_Codes/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/abhix201/LeetCode_Codes/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/abhix201/LeetCode_Codes/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/abhix201/LeetCode_Codes/tree/master/2812-find-the-maximum-achievable-number) |
@@ -643,6 +646,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/abhix201/LeetCode_Codes/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/abhix201/LeetCode_Codes/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/abhix201/LeetCode_Codes/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/abhix201/LeetCode_Codes/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/abhix201/LeetCode_Codes/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/abhix201/LeetCode_Codes/tree/master/2704-maximum-difference-by-remapping-a-digit) |
