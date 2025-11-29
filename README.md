@@ -214,6 +214,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/abhix201/LeetCode_Codes/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abhix201/LeetCode_Codes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhix201/LeetCode_Codes/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/abhix201/LeetCode_Codes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/abhix201/LeetCode_Codes/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -675,6 +676,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/abhix201/LeetCode_Codes/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/abhix201/LeetCode_Codes/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/3336-water-bottles-ii) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhix201/LeetCode_Codes/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/abhix201/LeetCode_Codes/tree/master/3548-find-the-count-of-good-integers) |
 | [3568-find-the-key-of-the-numbers](https://github.com/abhix201/LeetCode_Codes/tree/master/3568-find-the-key-of-the-numbers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/abhix201/LeetCode_Codes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
