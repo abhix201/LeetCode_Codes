@@ -218,6 +218,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abhix201/LeetCode_Codes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhix201/LeetCode_Codes/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/abhix201/LeetCode_Codes/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/abhix201/LeetCode_Codes/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/abhix201/LeetCode_Codes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/abhix201/LeetCode_Codes/tree/master/3583-count-special-triplets) |
@@ -633,6 +634,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/abhix201/LeetCode_Codes/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/abhix201/LeetCode_Codes/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/abhix201/LeetCode_Codes/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/abhix201/LeetCode_Codes/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Math
 |  |
 | ------- |
@@ -697,6 +699,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhix201/LeetCode_Codes/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/abhix201/LeetCode_Codes/tree/master/3548-find-the-count-of-good-integers) |
 | [3568-find-the-key-of-the-numbers](https://github.com/abhix201/LeetCode_Codes/tree/master/3568-find-the-key-of-the-numbers) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/abhix201/LeetCode_Codes/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/abhix201/LeetCode_Codes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abhix201/LeetCode_Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -1272,6 +1275,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/abhix201/LeetCode_Codes/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/abhix201/LeetCode_Codes/tree/master/3548-find-the-count-of-good-integers) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/abhix201/LeetCode_Codes/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3637-count-number-of-balanced-permutations](https://github.com/abhix201/LeetCode_Codes/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/abhix201/LeetCode_Codes/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/abhix201/LeetCode_Codes/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
