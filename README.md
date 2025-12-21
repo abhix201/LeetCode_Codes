@@ -55,6 +55,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0944-delete-columns-to-make-sorted](https://github.com/abhix201/LeetCode_Codes/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/abhix201/LeetCode_Codes/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/abhix201/LeetCode_Codes/tree/master/0952-word-subsets) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/abhix201/LeetCode_Codes/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/abhix201/LeetCode_Codes/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/abhix201/LeetCode_Codes/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -456,6 +457,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0920-uncommon-words-from-two-sentences](https://github.com/abhix201/LeetCode_Codes/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0944-delete-columns-to-make-sorted](https://github.com/abhix201/LeetCode_Codes/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/abhix201/LeetCode_Codes/tree/master/0952-word-subsets) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhix201/LeetCode_Codes/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1006-vowel-spellchecker](https://github.com/abhix201/LeetCode_Codes/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/abhix201/LeetCode_Codes/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -746,6 +748,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0759-set-intersection-size-at-least-two](https://github.com/abhix201/LeetCode_Codes/tree/master/0759-set-intersection-size-at-least-two) |
 | [0768-partition-labels](https://github.com/abhix201/LeetCode_Codes/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/abhix201/LeetCode_Codes/tree/master/0797-rabbits-in-forest) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhix201/LeetCode_Codes/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/abhix201/LeetCode_Codes/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/abhix201/LeetCode_Codes/tree/master/1049-minimum-domino-rotations-for-equal-row) |
