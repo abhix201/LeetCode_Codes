@@ -512,6 +512,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2456-construct-smallest-number-from-di-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abhix201/LeetCode_Codes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/2465-shifting-letters-ii) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/abhix201/LeetCode_Codes/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/abhix201/LeetCode_Codes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/abhix201/LeetCode_Codes/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/abhix201/LeetCode_Codes/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -635,6 +636,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2358-number-of-ways-to-split-array](https://github.com/abhix201/LeetCode_Codes/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/abhix201/LeetCode_Codes/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/2465-shifting-letters-ii) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/abhix201/LeetCode_Codes/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/abhix201/LeetCode_Codes/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/abhix201/LeetCode_Codes/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/abhix201/LeetCode_Codes/tree/master/2625-increment-submatrices-by-one) |
