@@ -69,6 +69,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [1293-three-consecutive-odds](https://github.com/abhix201/LeetCode_Codes/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/abhix201/LeetCode_Codes/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/abhix201/LeetCode_Codes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhix201/LeetCode_Codes/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/abhix201/LeetCode_Codes/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/abhix201/LeetCode_Codes/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/abhix201/LeetCode_Codes/tree/master/1396-count-servers-that-communicate) |
@@ -971,6 +972,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0611-valid-triangle-number](https://github.com/abhix201/LeetCode_Codes/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/abhix201/LeetCode_Codes/tree/master/0794-swim-in-rising-water) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/abhix201/LeetCode_Codes/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhix201/LeetCode_Codes/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhix201/LeetCode_Codes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/abhix201/LeetCode_Codes/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhix201/LeetCode_Codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -1105,6 +1107,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0794-swim-in-rising-water](https://github.com/abhix201/LeetCode_Codes/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/abhix201/LeetCode_Codes/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/abhix201/LeetCode_Codes/tree/master/0945-snakes-and-ladders) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhix201/LeetCode_Codes/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/abhix201/LeetCode_Codes/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/abhix201/LeetCode_Codes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhix201/LeetCode_Codes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
