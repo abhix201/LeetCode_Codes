@@ -355,6 +355,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0347-top-k-frequent-elements](https://github.com/abhix201/LeetCode_Codes/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/abhix201/LeetCode_Codes/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/abhix201/LeetCode_Codes/tree/master/0594-longest-harmonious-subsequence) |
+| [0756-pyramid-transition-matrix](https://github.com/abhix201/LeetCode_Codes/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/abhix201/LeetCode_Codes/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/abhix201/LeetCode_Codes/tree/master/0797-rabbits-in-forest) |
 | [0837-most-common-word](https://github.com/abhix201/LeetCode_Codes/tree/master/0837-most-common-word) |
@@ -460,6 +461,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0474-ones-and-zeroes](https://github.com/abhix201/LeetCode_Codes/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/abhix201/LeetCode_Codes/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/abhix201/LeetCode_Codes/tree/master/0567-permutation-in-string) |
+| [0756-pyramid-transition-matrix](https://github.com/abhix201/LeetCode_Codes/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/abhix201/LeetCode_Codes/tree/master/0768-partition-labels) |
 | [0837-most-common-word](https://github.com/abhix201/LeetCode_Codes/tree/master/0837-most-common-word) |
 | [0868-push-dominoes](https://github.com/abhix201/LeetCode_Codes/tree/master/0868-push-dominoes) |
@@ -559,6 +561,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0231-power-of-two](https://github.com/abhix201/LeetCode_Codes/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/abhix201/LeetCode_Codes/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/abhix201/LeetCode_Codes/tree/master/0342-power-of-four) |
+| [0756-pyramid-transition-matrix](https://github.com/abhix201/LeetCode_Codes/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhix201/LeetCode_Codes/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/abhix201/LeetCode_Codes/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1435-xor-queries-of-a-subarray](https://github.com/abhix201/LeetCode_Codes/tree/master/1435-xor-queries-of-a-subarray) |
@@ -1209,6 +1212,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | ------- |
 | [0037-sudoku-solver](https://github.com/abhix201/LeetCode_Codes/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/abhix201/LeetCode_Codes/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/abhix201/LeetCode_Codes/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/abhix201/LeetCode_Codes/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/abhix201/LeetCode_Codes/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/abhix201/LeetCode_Codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
