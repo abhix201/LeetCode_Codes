@@ -14,6 +14,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0037-sudoku-solver](https://github.com/abhix201/LeetCode_Codes/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/abhix201/LeetCode_Codes/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/abhix201/LeetCode_Codes/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/abhix201/LeetCode_Codes/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/abhix201/LeetCode_Codes/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/abhix201/LeetCode_Codes/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/abhix201/LeetCode_Codes/tree/master/0118-pascals-triangle) |
@@ -678,6 +679,7 @@ This is the repository for all the leetcode successful submissions that will be 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/abhix201/LeetCode_Codes/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/abhix201/LeetCode_Codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/abhix201/LeetCode_Codes/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/abhix201/LeetCode_Codes/tree/master/0326-power-of-three) |
