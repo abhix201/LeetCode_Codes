@@ -82,6 +82,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/abhix201/LeetCode_Codes/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhix201/LeetCode_Codes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/abhix201/LeetCode_Codes/tree/master/1435-xor-queries-of-a-subarray) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/abhix201/LeetCode_Codes/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/abhix201/LeetCode_Codes/tree/master/1470-shuffle-the-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhix201/LeetCode_Codes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/abhix201/LeetCode_Codes/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1291,6 +1292,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhix201/LeetCode_Codes/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/abhix201/LeetCode_Codes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/abhix201/LeetCode_Codes/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/abhix201/LeetCode_Codes/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhix201/LeetCode_Codes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/abhix201/LeetCode_Codes/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/abhix201/LeetCode_Codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
