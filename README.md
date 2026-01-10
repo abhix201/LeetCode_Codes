@@ -473,6 +473,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0474-ones-and-zeroes](https://github.com/abhix201/LeetCode_Codes/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/abhix201/LeetCode_Codes/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/abhix201/LeetCode_Codes/tree/master/0567-permutation-in-string) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/abhix201/LeetCode_Codes/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/abhix201/LeetCode_Codes/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/abhix201/LeetCode_Codes/tree/master/0768-partition-labels) |
 | [0837-most-common-word](https://github.com/abhix201/LeetCode_Codes/tree/master/0837-most-common-word) |
@@ -1285,6 +1286,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [0368-largest-divisible-subset](https://github.com/abhix201/LeetCode_Codes/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/abhix201/LeetCode_Codes/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/abhix201/LeetCode_Codes/tree/master/0474-ones-and-zeroes) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/abhix201/LeetCode_Codes/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0806-domino-and-tromino-tiling](https://github.com/abhix201/LeetCode_Codes/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/abhix201/LeetCode_Codes/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/abhix201/LeetCode_Codes/tree/master/0867-new-21-game) |
