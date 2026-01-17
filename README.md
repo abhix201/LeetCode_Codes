@@ -199,6 +199,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2888-minimum-index-of-a-valid-split](https://github.com/abhix201/LeetCode_Codes/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/abhix201/LeetCode_Codes/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/abhix201/LeetCode_Codes/tree/master/3001-apply-operations-to-maximize-score) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/abhix201/LeetCode_Codes/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/abhix201/LeetCode_Codes/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/abhix201/LeetCode_Codes/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -743,6 +744,7 @@ This is the repository for all the leetcode successful submissions that will be 
 | [2812-find-the-maximum-achievable-number](https://github.com/abhix201/LeetCode_Codes/tree/master/2812-find-the-maximum-achievable-number) |
 | [2998-count-symmetric-integers](https://github.com/abhix201/LeetCode_Codes/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/abhix201/LeetCode_Codes/tree/master/3001-apply-operations-to-maximize-score) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/abhix201/LeetCode_Codes/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/abhix201/LeetCode_Codes/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhix201/LeetCode_Codes/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3201-distribute-candies-among-children-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/3201-distribute-candies-among-children-ii) |
@@ -1467,6 +1469,7 @@ This is the repository for all the leetcode successful submissions that will be 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/abhix201/LeetCode_Codes/tree/master/0830-largest-triangle-area) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/abhix201/LeetCode_Codes/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/abhix201/LeetCode_Codes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/abhix201/LeetCode_Codes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/abhix201/LeetCode_Codes/tree/master/3623-count-number-of-trapezoids-i) |
